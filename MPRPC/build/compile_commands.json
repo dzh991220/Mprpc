@@ -1,0 +1,62 @@
+[
+{
+  "directory": "/home/vergil/MPRPC/build/src",
+  "command": "/usr/bin/g++   -I/home/vergil/MPRPC/src/include -I/home/vergil/MPRPC/example  -g   -o CMakeFiles/mprpc.dir/mprpcapplication.cc.o -c /home/vergil/MPRPC/src/mprpcapplication.cc",
+  "file": "/home/vergil/MPRPC/src/mprpcapplication.cc"
+},
+{
+  "directory": "/home/vergil/MPRPC/build/src",
+  "command": "/usr/bin/g++   -I/home/vergil/MPRPC/src/include -I/home/vergil/MPRPC/example  -g   -o CMakeFiles/mprpc.dir/mprpcconfig.cc.o -c /home/vergil/MPRPC/src/mprpcconfig.cc",
+  "file": "/home/vergil/MPRPC/src/mprpcconfig.cc"
+},
+{
+  "directory": "/home/vergil/MPRPC/build/src",
+  "command": "/usr/bin/g++   -I/home/vergil/MPRPC/src/include -I/home/vergil/MPRPC/example  -g   -o CMakeFiles/mprpc.dir/rpcheader.pb.cc.o -c /home/vergil/MPRPC/src/rpcheader.pb.cc",
+  "file": "/home/vergil/MPRPC/src/rpcheader.pb.cc"
+},
+{
+  "directory": "/home/vergil/MPRPC/build/src",
+  "command": "/usr/bin/g++   -I/home/vergil/MPRPC/src/include -I/home/vergil/MPRPC/example  -g   -o CMakeFiles/mprpc.dir/rpcprovider.cc.o -c /home/vergil/MPRPC/src/rpcprovider.cc",
+  "file": "/home/vergil/MPRPC/src/rpcprovider.cc"
+},
+{
+  "directory": "/home/vergil/MPRPC/build/src",
+  "command": "/usr/bin/g++   -I/home/vergil/MPRPC/src/include -I/home/vergil/MPRPC/example  -g   -o CMakeFiles/mprpc.dir/mprpcchannel.cc.o -c /home/vergil/MPRPC/src/mprpcchannel.cc",
+  "file": "/home/vergil/MPRPC/src/mprpcchannel.cc"
+},
+{
+  "directory": "/home/vergil/MPRPC/build/src",
+  "command": "/usr/bin/g++   -I/home/vergil/MPRPC/src/include -I/home/vergil/MPRPC/example  -g   -o CMakeFiles/mprpc.dir/mprpccontroller.cc.o -c /home/vergil/MPRPC/src/mprpccontroller.cc",
+  "file": "/home/vergil/MPRPC/src/mprpccontroller.cc"
+},
+{
+  "directory": "/home/vergil/MPRPC/build/src",
+  "command": "/usr/bin/g++   -I/home/vergil/MPRPC/src/include -I/home/vergil/MPRPC/example  -g   -o CMakeFiles/mprpc.dir/logger.cc.o -c /home/vergil/MPRPC/src/logger.cc",
+  "file": "/home/vergil/MPRPC/src/logger.cc"
+},
+{
+  "directory": "/home/vergil/MPRPC/build/src",
+  "command": "/usr/bin/g++   -I/home/vergil/MPRPC/src/include -I/home/vergil/MPRPC/example  -g   -o CMakeFiles/mprpc.dir/zookeeperutil.cc.o -c /home/vergil/MPRPC/src/zookeeperutil.cc",
+  "file": "/home/vergil/MPRPC/src/zookeeperutil.cc"
+},
+{
+  "directory": "/home/vergil/MPRPC/build/example/callee",
+  "command": "/usr/bin/g++   -I/home/vergil/MPRPC/src/include -I/home/vergil/MPRPC/example  -g   -o CMakeFiles/provider.dir/friendservice.cc.o -c /home/vergil/MPRPC/example/callee/friendservice.cc",
+  "file": "/home/vergil/MPRPC/example/callee/friendservice.cc"
+},
+{
+  "directory": "/home/vergil/MPRPC/build/example/callee",
+  "command": "/usr/bin/g++   -I/home/vergil/MPRPC/src/include -I/home/vergil/MPRPC/example  -g   -o CMakeFiles/provider.dir/__/friend.pb.cc.o -c /home/vergil/MPRPC/example/friend.pb.cc",
+  "file": "/home/vergil/MPRPC/example/friend.pb.cc"
+},
+{
+  "directory": "/home/vergil/MPRPC/build/example/caller",
+  "command": "/usr/bin/g++   -I/home/vergil/MPRPC/src/include -I/home/vergil/MPRPC/example  -g   -o CMakeFiles/consumer.dir/callfriendservice.cc.o -c /home/vergil/MPRPC/example/caller/callfriendservice.cc",
+  "file": "/home/vergil/MPRPC/example/caller/callfriendservice.cc"
+},
+{
+  "directory": "/home/vergil/MPRPC/build/example/caller",
+  "command": "/usr/bin/g++   -I/home/vergil/MPRPC/src/include -I/home/vergil/MPRPC/example  -g   -o CMakeFiles/consumer.dir/__/friend.pb.cc.o -c /home/vergil/MPRPC/example/friend.pb.cc",
+  "file": "/home/vergil/MPRPC/example/friend.pb.cc"
+}
+]
